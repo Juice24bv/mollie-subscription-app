@@ -1,4 +1,25 @@
+# 📦 Node modules
 node_modules/
-.env.local
+
+# 🧪 Next.js build output
 .next/
 out/
+
+# 🔐 Environment variables
+.env.local
+
+# 💅 Optional editor junk
+.DS_Store
+.vscode/
+.idea/
+
+# 🔧 Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🧪 Test coverage (indien je tests toevoegt)
+coverage/
+
+# 💻 Optional: system files
+*.swp
