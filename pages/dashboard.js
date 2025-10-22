@@ -4,7 +4,7 @@ const PRODUCTEN = [
   { id: 'FRUITFULL_COMBI', name: 'FRUITFULL COMBI', price: 18.84 },
   { id: 'HEALTHY_CHOICE', name: 'HEALTHY CHOICE', price: 18.84 },
   { id: 'RAINBOW_MIX', name: 'RAINBOW MIX', price: 18.84 },
-  { id: 'STRONG_PACKAGE', name: 'STRONG PACKAGE', price:  18.84 }
+  { id: 'STRONG_PACKAGE', name: 'STRONG PACKAGE', price: 18.84 }
 ];
 
 export default function AbonnementFormulier() {

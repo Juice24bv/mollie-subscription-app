@@ -1,1 +1,1 @@
-# mollie-subscription-app
+# Mollie Subscription App
